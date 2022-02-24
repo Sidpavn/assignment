@@ -1,0 +1,1 @@
+providers - hold all the interaction that transact the data from the outside the app.

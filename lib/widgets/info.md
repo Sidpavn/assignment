@@ -1,0 +1,1 @@
+widgets - hold all the static widgets
