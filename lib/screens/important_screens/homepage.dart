@@ -361,7 +361,6 @@ class _HomePageState extends State<HomePage> {
                                                                                         });
                                                                                     storage.setItem('cart_item_count', selected_item.length);
                                                                                     storage.setItem('selected_item', selected_item);
-                                                                                    print('testing');
                                                                                     print(storage.getItem('selected_item'));
                                                                                     Navigator.pushReplacement(
                                                                                       context,
